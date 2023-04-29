@@ -15,7 +15,9 @@ const Project = (props) => {
           {props.description}
         </p>
         <div class="mt-10">
-          <Button link={props.link}>Case Study</Button>
+          <Button newTab={false} link={props.link}>
+            Case Study
+          </Button>
         </div>
       </div>
     </div>
