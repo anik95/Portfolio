@@ -8,8 +8,8 @@ const Content = () => {
         Hey, I am Mustadir Mahmood
       </h1>
       <p class="mt-10 text-center text-lg md:text-xl">
-        A Frontend focused Web Developer building the Frontend of Websites and
-        Web Applications that leads to the success of the overall product
+        Focused MERN stack Web Developer building Web Applications that leads to
+        the success of the overall product
       </p>
       <div class="flex justify-center">
         <div class="mt-10">

@@ -16,7 +16,7 @@ const About = ({ titleType }) => {
         <div class="w-full md:w-1/2 md:pr-4 mb-16 md:mb-0">
           <SubHeading text="Get to know me!" />
           <p class="mb-3">
-            I am Front-end engineer with 5 years of experience building robust
+            I am MERN stack engineer with 5 years of experience building robust
             client-end applications with extensive experience in Javascript. As
             a team leader, managing the team, communicating with clients,
             solving problems, and conducting code reviews are some of my main
@@ -46,6 +46,8 @@ const About = ({ titleType }) => {
           <SubHeading text="My Skills" />
           <div class="flex justify-start items-center flex-wrap">
             <Skill>React</Skill>
+            <Skill>Nextjs</Skill>
+            <Skill>Nodejs</Skill>
             <Skill>Redux</Skill>
             <Skill>Context</Skill>
             <Skill>React Router</Skill>
@@ -54,7 +56,6 @@ const About = ({ titleType }) => {
             <Skill>Vanilla JS</Skill>
             <Skill>Jest</Skill>
             <Skill>React Testing Library</Skill>
-            <Skill>Nextjs</Skill>
             <Skill>Canvas Js</Skill>
             <Skill>Leaflet Js</Skill>
             <Skill>Blueprint JS</Skill>

@@ -9,8 +9,8 @@ const Footer = () => (
       <div class="w-full md:w-1/2">
         <h1 class="text-white font-medium text-xl mb-4">Mustadir Mahmood</h1>
         <p class="text-white font-normal text-sm">
-          A Frontend focused Web Developer building the Frontend of Websites and
-          Web Applications that leads to the success of the overall product
+          A MERN stack focused Web Developer building Web Applications that
+          leads to the success of the overall product
         </p>
       </div>
       <div class="w-full md:w-1/2 mt-8 md:mt-0">
