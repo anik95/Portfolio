@@ -48,10 +48,10 @@ const About = ({ titleType }) => {
             <Skill>React</Skill>
             <Skill>Nextjs</Skill>
             <Skill>Nodejs</Skill>
+            <Skill>Typescript</Skill>
             <Skill>Redux</Skill>
             <Skill>Context</Skill>
             <Skill>React Router</Skill>
-            <Skill>Typescript</Skill>
             <Skill>React Query</Skill>
             <Skill>Vanilla JS</Skill>
             <Skill>Jest</Skill>
