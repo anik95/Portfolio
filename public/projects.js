@@ -29,15 +29,15 @@ const projects = [
       "Material UI",
     ],
   },
-  {
-    id: "musingoo",
-    title: "Musingoo",
-    description: [
-      "Based in Hamburg, musingoo is a music learning platform for music enthusiasts built using React, with options to make appointments, instrument rentals and much more. Musingoo is on track to be officially launched very soon.",
-    ],
-    link: "https://musingoo.de/",
-    tools: ["React", "Typescript", "Full Calendar Js", "Reactstrap"],
-  },
+  // {
+  //   id: "musingoo",
+  //   title: "Musingoo",
+  //   description: [
+  //     "Based in Hamburg, musingoo is a music learning platform for music enthusiasts built using React, with options to make appointments, instrument rentals and much more. Musingoo is on track to be officially launched very soon.",
+  //   ],
+  //   link: "https://musingoo.de/",
+  //   tools: ["React", "Typescript", "Full Calendar Js", "Reactstrap"],
+  // },
   {
     id: "seebiz",
     title: "Seebiz Inventory",

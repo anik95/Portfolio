@@ -29,12 +29,12 @@ const Projects = () => {
           link="/project/amberg"
           description="Robust, easy-to-use platform in order to evaluate and analyze rail track measurement data through the use of charts, data tables, images, maps and reports."
         />{" "}
-        <Project
+        {/* <Project
           img={MusingooImg}
           title={"Musingoo"}
           link="/project/musingoo"
           description="Music learning platform for music enthusiasts built using React, with options to make appointments, instrument rentals and much more."
-        />{" "}
+        />{" "} */}
         <Project
           img={SeebizImg}
           title={"Seebiz Inventory"}
